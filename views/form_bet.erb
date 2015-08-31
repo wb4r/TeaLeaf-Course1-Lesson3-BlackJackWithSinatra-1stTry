@@ -1,0 +1,11 @@
+<h3>Make a bet</h3>
+ <p> <%=params['username']%> has $500.</p>
+
+<form action="/first_hand" method="post">
+	<input type="text" name="bet_amount">
+	<input type="submit">
+</form>
+
+<%# <%if params[bet_amount].to_i > 500 %>
+<%#    <% redirect '/bet_error' %>
+<%# <% end %>
