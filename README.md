@@ -1,8 +1,14 @@
-# TeaLeaf-Course1-Lesson3-BlackJackWithSinatra-1stTry
+# TeaLeaf-Course1-Lesson3-BlackJackWithSinatra
+
 TeaLeaf Academy - Course 1: Introduction to Ruby and Web Development - September 2015
 
+Lesson 3: Web development and Sinatra
 
 Assignment: convert our previous BlackJack game to a Web hosted game using Sinatra locally. 
+
+-----------------------------------------------------------------------------------------------------
+
+
 
 MOCKUP DESIGN - UI BASED
 
